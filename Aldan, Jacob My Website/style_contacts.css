@@ -49,24 +49,13 @@ color: black;
     margin-top: 20px;
     border-radius: 20px;
 }
-.main{
-    -ms-flex: 70%;
-    flex: 70%;
-    background-color: #98d8ff;
-    padding: 20px;
-    margin-top: 20px;
-    border-radius: 20px;
-}
-.main img{
-    width: 25%;
-}
 footer{
     font-size: 60%;
     color: #606060;
     text-align: center;
 }
 @media only screen and (max-width:500px) {
-    .nav, .side, .main {
+    .nav, .side {
       width: 100%;
     }
   }
