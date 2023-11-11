@@ -64,3 +64,8 @@ footer{
     color: #606060;
     text-align: center;
 }
+@media only screen and (max-width:500px) {
+    .nav, .side, .main {
+      width: 100%;
+    }
+  }
