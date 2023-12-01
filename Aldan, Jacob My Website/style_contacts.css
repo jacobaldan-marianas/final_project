@@ -49,6 +49,11 @@ color: black;
     margin-top: 20px;
     border-radius: 20px;
 }
+
+.side img{
+    width: 10%;
+}
+
 footer{
     font-size: 60%;
     color: #606060;
